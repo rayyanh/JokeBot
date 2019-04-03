@@ -13,7 +13,7 @@ client.on("message", (message) => {
     }
 });
 
-client.login("NDQ5NjkyOTk4OTg5NjQzNzc2.DeodEQ.REgEdOYqRaPB6yMxYF_eiWSADeU");
+client.login("token was here. Removed for privacy!");
 
 // Set the prefix
 const prefix = "~";
